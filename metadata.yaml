@@ -1,0 +1,41 @@
+_repo: The-Middle-Class-Gentleman_2992
+_version: 0.0.1
+alternative_title: Le Bourgeois Gentilhomme. English
+contributor:
+  translator:
+    agent_name: Jones, Philip Dwight
+    gutenberg_agent_id: '1079'
+    url: http://www.gutenberg.org/2009/agents/1079
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Poquelin, Jean-Baptiste
+    - Moliere
+    - Poquelin de Molière, Jean Baptiste
+    - Molière, Jean Baptiste Poquelin de
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_issued: '2001-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'French drama'
+- !lcsh 'Middle class -- France -- Drama'
+- !lcc 'PQ'
+- !lcsh 'France -- Social life and customs -- 17th century -- Drama'
+- GITenberg
+title: The Middle-Class Gentleman
+url: http://www.gutenberg.org/ebooks/2992
