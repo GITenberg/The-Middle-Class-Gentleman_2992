@@ -1,11 +1,14 @@
 _repo: The-Middle-Class-Gentleman_2992
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le Bourgeois Gentilhomme. English
 contributor:
   translator:
     agent_name: Jones, Philip Dwight
     gutenberg_agent_id: '1079'
     url: http://www.gutenberg.org/2009/agents/1079
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Molière
@@ -22,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Moli%C3%A8re
     - http://fr.wikipedia.org/wiki/Moli%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2992#The-Middle-Class-Gentleman
 gutenberg_issued: '2001-12-01'
 gutenberg_type: Text
 identifiers:
